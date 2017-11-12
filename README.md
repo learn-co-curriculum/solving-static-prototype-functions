@@ -1,12 +1,6 @@
-# Solving Constructor Functions ABP
+# Solving Objects Functions ABP
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwXj2wmgcqg?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/nwXj2wmgcqg">Solving Constructor Functions ABP</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OStAcOgvE7s?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/OStAcOgvE7s">Solving Objects Functions ABP</a></p>
 
-[Solution](https://github.com/aviflombaum/js-object-oriented-constructor-functions-lab-abp-11-17/blob/solution/index.js)
+[Solution](https://github.com/aviflombaum/js-object-oriented-object-methods-lab-abp-11-17/blob/solution/index.js) **Note this solution shows a pattern not to be used, attached Object Functions onto the Prototype**
 
-## Resources
-
-* [MDN Constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor)
-* [MDN Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-* [W3Schools Objects](https://www.w3schools.com/js/js_object_definition.asp)
-* [Understanding Constructors](https://css-tricks.com/understanding-javascript-constructors/)
